@@ -1,0 +1,14 @@
+[
+  {
+    "id": "project-1",
+    "name": "Project 1",
+    "lat": 53.480759,
+    "lng": -2.242631
+  },
+  {
+    "id": "project-2",
+    "name": "Project 2",
+    "lat": 51.509865,
+    "lng": -0.118092
+  }
+]
